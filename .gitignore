@@ -1,0 +1,7 @@
+# Ignore context and metadata directories
+.context/
+.serena/
+.specstory/
+
+# Ignore agents documentation
+AGENTS.md
