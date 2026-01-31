@@ -9,7 +9,7 @@
 
 **Calculadora de Emissões de CO₂ para Transportes no Brasil**
 
-[Demo ao Vivo](#) • [Reportar Bug](../../issues) • [Solicitar Feature](../../issues)
+[Demo ao Vivo](https://alanmaltacavalcante.github.io/DIO-CalculadoraCO2/)
 
 </div>
 
