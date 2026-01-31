@@ -149,23 +149,8 @@ cd CalculadoraCO2
 
 2. **Abra no navegador**
 ```bash
-# Opção 1: Abrir diretamente
+# Abrir diretamente no navegador
 open index.html
-
-# Opção 2: Servidor Python
-python3 -m http.server 8000
-
-# Opção 3: Servidor Node.js
-npx serve
-
-# Opção 4: Servidor PHP
-php -S localhost:8000
-```
-
-3. **Acesse no navegador**
-```
-http://localhost:8000
-```
 
 ---
 
@@ -305,14 +290,6 @@ Desenvolvido como projeto de conclusão do **Bootcamp GitHub Copilot - Código n
 - [Font Awesome](https://fontawesome.com) pelos ícones
 - [Google Fonts](https://fonts.google.com) pela fonte Inter
 - Comunidade open source por inspiração e recursos
-
----
-
-## 📞 Contato
-
-- **GitHub**: [@seu-usuario](https://github.com/seu-usuario)
-- **LinkedIn**: [Seu Nome](https://linkedin.com/in/seu-perfil)
-- **DIO.me**: [Seu Perfil](https://dio.me/users/seu-perfil)
 
 ---
 
